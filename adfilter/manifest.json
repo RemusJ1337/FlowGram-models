@@ -1,0 +1,42 @@
+{
+ "version": 1,
+ "base": "https://github.com/RemusJ1337/FlowGram-models/releases/download/adfilter-v1/",
+ "files": [
+  {
+   "name": "FlowGramAdBERT.vocab.txt",
+   "path": "FlowGramAdBERT.vocab.txt",
+   "size": 903743,
+   "sha256": "2fc79d71c29ea2e07d782e41d1b917a3224560d7847c624300331fb3fe2989f6"
+  },
+  {
+   "name": "FlowGramAdBERT.coremldata.bin",
+   "path": "FlowGramAdBERT.mlmodelc/coremldata.bin",
+   "size": 539,
+   "sha256": "624442d5b42d41a67abf17b9c2e1e84984bd90b3dfb9d442492e8bfd316c1366"
+  },
+  {
+   "name": "FlowGramAdBERT.metadata.json",
+   "path": "FlowGramAdBERT.mlmodelc/metadata.json",
+   "size": 2375,
+   "sha256": "e63fee26d86c9c094e029206a65a5a1590f28f9da273bf855b863e5882ff539d"
+  },
+  {
+   "name": "FlowGramAdBERT.model.mil",
+   "path": "FlowGramAdBERT.mlmodelc/model.mil",
+   "size": 49230,
+   "sha256": "c6b7c927f2afa3d05f934c9518a4c9f276ec8a8c6e091db2b67a4bfcf81e5604"
+  },
+  {
+   "name": "FlowGramAdBERT.weights.weight.bin",
+   "path": "FlowGramAdBERT.mlmodelc/weights/weight.bin",
+   "size": 24720240,
+   "sha256": "bbb44602e7743f8f76af6d07c58e529dc6fbe8c54f83af35b1912e5f55a625d2"
+  },
+  {
+   "name": "FlowGramAdBERT.analytics.coremldata.bin",
+   "path": "FlowGramAdBERT.mlmodelc/analytics/coremldata.bin",
+   "size": 243,
+   "sha256": "27b817eb3b51b3f50835c7b1b7461b256f8fe0f445e0e3ed855ca1a2cee842ee"
+  }
+ ]
+}
